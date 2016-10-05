@@ -1,4 +1,4 @@
-## About Express4-Caminte-ORM
+## Express4-Caminte-ORM
 The simplest RESTful stack which is based on the Express4 and CaminteJS ORM (here I used `mysql` adapter and you can change it to anyother database adapters like sqlite3, postgres, mongodb, redis, riak, couchdb(nano), rethinkdb, tingodb)
 
 ## About CaminteJS
@@ -40,3 +40,8 @@ First install [node.js](http://nodejs.org/). Then:
 After installation run:
 
 	$ npm run watch
+
+## Author
+[Velu Shanmugam](https://github.com/oxy-code/)
+
+<velu_developer@yahoo.com>
