@@ -1,6 +1,6 @@
 {
   "name": "express4-caminte-orm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The simplest RESTful stack which is based on the Express4 and CaminteJS ORM (here I used `mysql` adapter and you can change it to anyother database adapters like sqlite3, postgres, mongodb, redis, riak, couchdb(nano), rethinkdb, tingodb)",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,8 @@
   "devDependencies": {
     "nodemon": "^1.10.2"
   },
-  "repositories":"https://github.com/oxy-code/express4-caminte-orm"
+  "repositories":"https://github.com/oxy-code/express4-caminte-orm",
+  "keywords":[
+	  "caminte","orm","cross-platform orm","express 4","express4","expressjs","rest","mysql orm","mysql"
+  ]
 }
