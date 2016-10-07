@@ -30,12 +30,6 @@ most popular database formats.
     </tr>
 </table>
 
-## Installation
-
-First install [node.js](http://nodejs.org/). Then:
-
-    $ npm install express4-caminte-orm --save
-
 ## To Execute
 After installation run:
 
