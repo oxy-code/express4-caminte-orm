@@ -22,7 +22,7 @@
   "devDependencies": {
     "nodemon": "^1.10.2"
   },
-  "repositories":"https://github.com/oxy-code/express4-caminte-orm",
+  "repository":"https://github.com/oxy-code/express4-caminte-orm",
   "keywords":[
 	  "caminte","orm","cross-platform orm","express 4","express4","expressjs","rest","mysql orm","mysql"
   ]
